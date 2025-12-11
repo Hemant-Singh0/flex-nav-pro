@@ -1,5 +1,3 @@
-import "./Products.css";
-
 const Products = () => {
   return (
     <div className="product-container">
